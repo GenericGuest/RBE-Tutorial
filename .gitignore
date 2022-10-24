@@ -3,3 +3,7 @@ hello_world/target/
 display-format/target/
 primitives/target/
 slices/target/
+CustomTypes/target/
+CustomTypesEnums/
+CustomTypesLinkedList/target/
+VariableBindings/target/
